@@ -1,9 +1,3 @@
-<<<<<<< HEAD
----
-output:
-  html_document: default
-  pdf_document: default
----
 # Exploratory Data Analysis
 ## Course Project 2
 
